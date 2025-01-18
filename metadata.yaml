@@ -1,0 +1,28 @@
+_repo: Suomalaiset-Viron-vapaussodassa_75127
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Helanen, Vilho
+    birthdate: 1899
+    deathdate: 1952
+    gutenberg_agent_id: '57220'
+    url: http://www.gutenberg.org/2009/agents/57220
+    wikipedia: https://fi.wikipedia.org/wiki/Vilho_Helanen
+description: ''
+gutenberg_issued: '2025-01-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75127'
+language: fi
+pgterms:marc905: 20241228235312helanen
+pgterms:marc906: '2023'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHelsinki :$bOppian, $c2023.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Suomalaiset Viron vapaussodassa
+url: http://www.gutenberg.org/ebooks/75127
